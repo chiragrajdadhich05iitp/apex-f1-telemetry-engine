@@ -264,16 +264,6 @@ The `PitWallWindow` base class handles all telemetry stream connection logic aut
 - Adjust telemetry processing in `src/f1_data.py`.
 - Create custom telemetry windows using `PitWallWindow` base class (see above).
 
-## Contributing
-
-There have been several contributions from the community that have helped enhance this project. I have added a [contributors.md](./contributors.md) file to acknowledge those who have contributed features and improvements.
-
-If you would like to contribute, feel free to:
-
-- Open pull requests for UI improvements or new features.
-- Report issues on GitHub.
-
-Please see [roadmap.md](./roadmap.md) for planned features and project vision.
 
 # Known Issues
 
@@ -298,4 +288,8 @@ No copyright infringement intended. Formula 1 and related trademarks are the pro
 
 ---
 
-Publisher Chirag Raj Dadhich
+Publisher Chirag Raj Dadhich.
+👤 Author & Engineering
+Chirag Raj Dadhich
+
+Specializing in High-Throughput Real-Time Systems, Telemetry Pipelines, and Low-Latency Backends.**
